@@ -1,0 +1,11 @@
+TODO
+- [ ] Research how to configure an LLM for journaling assistance
+- [ ] Research how to connect to an Ollama server
+- [ ] Research how to use RAG
+- [ ] Design the user interface (sketching and creating views)
+- [ ] Create a GUI using Gradio
+- [ ] Hook up Ollama to the GUI
+- [ ] Test and refine the AI conversational journaling proccess in the GUI
+- [ ] Implement RAG technology researched previously
+- [ ] Streamline process for saving/loading journal entries
+- [ ] Package app and document setup instructions
